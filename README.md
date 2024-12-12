@@ -4,6 +4,8 @@
 - *Método de Monte Carlo:* Usa simulação para estimar Pi
 - *Série de Leibniz:* Usa uma série matemática para aproximar Pi
 
+![calculadra_pi](https://github.com/user-attachments/assets/7f5d09b0-1b3d-429f-a6d4-031aff4dcc97)
+
 ## Recursos do app:
 
 - Seleção de método de cálculo
@@ -14,6 +16,9 @@
 - Gráfico de convergência
 
 Para executar, basta copiar o código e rodar no RStudio com o Shiny instalado.
+ps. Adicionar as libraries:
+library(shiny)
+library(ggplot2)
 
 ## Principais características:
 
